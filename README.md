@@ -7,5 +7,5 @@
 ## Usage
 
 ```shell
-$ vangen -out public
+$ vangen -out docs
 ```
