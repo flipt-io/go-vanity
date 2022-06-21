@@ -1,0 +1,13 @@
+{
+  "domain": "go.flipt.io",
+  "repositories": [
+    {
+      "prefix": "flipt",
+      "url": "https://github.com/markphelps/flipt"
+    },
+    {
+      "prefix": "flipt-grpc",
+      "url": "https://github.com/markphelps/flipt-grpc-go"
+    }
+  ]
+}
