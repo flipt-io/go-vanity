@@ -7,7 +7,7 @@
     },
     {
       "prefix": "flipt-grpc",
-      "url": "https://github.com/markphelps/flipt-grpc-go"
+      "url": "https://github.com/flipt-io/flipt-grpc-go"
     }
   ]
 }
