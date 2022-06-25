@@ -7,9 +7,9 @@
 ## Usage
 
 ```shell
-$ vangen -out .
 $ git checkout public
-$ git add .
-$ git commit -m "Update vanity go imports"
+$ git restore --source main vangen.json
+$ vangen -out .
+$ git commit -am "Update vanity go imports"
 $ git push
 ```
