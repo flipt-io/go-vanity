@@ -2,7 +2,7 @@
 
 ## Pre-Requisites
 
-- [vangen](https://github.com/leighmcculloch/vangen) `go install 4d63.com/vangen`
+- [vangen](https://github.com/leighmcculloch/vangen) `go install 4d63.com/vangen@latest`
 
 ## Usage
 
