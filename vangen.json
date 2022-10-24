@@ -3,7 +3,7 @@
   "repositories": [
     {
       "prefix": "flipt",
-      "url": "https://github.com/markphelps/flipt"
+      "url": "https://github.com/flipt-io/flipt"
     },
     {
       "prefix": "flipt-grpc",
