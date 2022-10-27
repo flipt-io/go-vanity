@@ -1,5 +1,6 @@
 {
   "domain": "go.flipt.io",
+  "index": true,
   "repositories": [
     {
       "prefix": "flipt",
