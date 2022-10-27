@@ -4,15 +4,20 @@
   "repositories": [
     {
       "prefix": "flipt",
+      "type": "git",
       "url": "https://github.com/flipt-io/flipt",
       "source": {
         "home": "https://github.com/flipt-io/flipt",
         "dir": "https://github.com/flipt-io/flipt/tree/main{/dir}",
         "file": "https://github.com/flipt-io/flipt/blob/main{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "URL": "https://flipt.io"
       }
     },
     {
       "prefix": "flipt-grpc",
+      "type": "git",
       "url": "https://github.com/flipt-io/flipt-grpc-go",
       "source": {
         "home": "https://github.com/flipt-io/flipt-grpc-go",
@@ -22,6 +27,7 @@
     },
     {
       "prefix": "flipt-openfeature-provider",
+      "type": "git",
       "url": "https://github.com/flipt-io/flipt-openfeature-provider-go",
       "source": {
         "home": "https://github.com/flipt-io/flipt-openfeature-provider-go",
