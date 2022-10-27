@@ -18,6 +18,15 @@
         "dir": "https://github.com/flipt-io/flipt-grpc-go/tree/main{/dir}",
         "file": "https://github.com/flipt-io/flipt-grpc-go/blob/main{/dir}/{file}#L{line}"
       }
+    },
+    {
+      "prefix": "flipt-openfeature-provider",
+      "url": "https://github.com/flipt-io/flipt-openfeature-provider-go",
+      "source": {
+        "home": "https://github.com/flipt-io/flipt-openfeature-provider-go",
+        "dir": "https://github.com/flipt-io/flipt-openfeature-provider-go/tree/main{/dir}",
+        "file": "https://github.com/flipt-io/flipt-openfeature-provider-go/blob/main{/dir}/{file}#L{line}"
+      }
     }
   ]
 }
