@@ -16,6 +16,19 @@
       }
     },
     {
+      "prefix": "flipt/sdk",
+      "type": "git",
+      "url": "https://github.com/flipt-io/flipt",
+      "source": {
+        "home": "https://github.com/flipt-io/flipt/tree/main/sdk/go",
+        "dir": "https://github.com/flipt-io/flipt/tree/main/sdk/go{/dir}",
+        "file": "https://github.com/flipt-io/flipt/blob/main/sdk/go{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "URL": "https://flipt.io"
+      }
+    },
+    {
       "prefix": "flipt-grpc",
       "type": "git",
       "url": "https://github.com/flipt-io/flipt-grpc-go",
