@@ -21,6 +21,11 @@
       }
     },
     {
+      "prefix": "flipt-client",
+      "type": "git",
+      "url": "https://github.com/flipt-io/flipt-client-go",
+    },
+    {
       "prefix": "flipt-grpc",
       "type": "git",
       "url": "https://github.com/flipt-io/flipt-grpc-go",
