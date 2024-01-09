@@ -44,6 +44,11 @@
         "dir": "https://github.com/flipt-io/flipt-openfeature-provider-go/tree/main{/dir}",
         "file": "https://github.com/flipt-io/flipt-openfeature-provider-go/blob/main{/dir}/{file}#L{line}"
       }
+    },
+    {
+      "prefix": "stew",
+      "type": "git",
+      "url": "https://github.com/flipt-io/stew"
     }
   ]
 }
