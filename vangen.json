@@ -6,11 +6,7 @@
       "prefix": "flipt",
       "type": "git",
       "url": "https://github.com/flipt-io/flipt",
-      "subs": [
-        "sdk/go",
-        "rpc/flipt",
-        "errors"
-      ],
+      "subs": ["sdk/go", "rpc/flipt", "errors"],
       "source": {
         "home": "https://github.com/flipt-io/flipt",
         "dir": "https://github.com/flipt-io/flipt/tree/main{/dir}",
@@ -49,6 +45,11 @@
       "prefix": "stew",
       "type": "git",
       "url": "https://github.com/flipt-io/stew"
+    },
+    {
+      "prefix": "reverst",
+      "type": "git",
+      "url": "https://github.com/flipt-io/reverst"
     }
   ]
 }
